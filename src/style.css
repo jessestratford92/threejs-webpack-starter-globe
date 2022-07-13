@@ -5,7 +5,7 @@
 }
 
 html,
-body
+body:hover
 {
     height: 100vh;
     font-family: 'Poppins';
